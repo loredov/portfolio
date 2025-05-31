@@ -19,10 +19,10 @@ Este sitio fue construido para presentar algunos de mis proyectos, aprendizajes 
 
 ## 🌐 Sitio en vivo
 
-👉 Visita el portafolio en: [https://tuusuario.github.io/portafolio](https://tuusuario.github.io/portafolio)
+👉 Visita el portafolio en: [https://loredov.github.io/portfolio/](https://loredov.github.io/portfolio/)
 
 ## 📫 Contacto
 
 ¿Quieres saber más de mí?  
 📧 tunombre@email.com  
-🐱 GitHub: [@tuusuario](https://github.com/tuusuario)
+🐱 GitHub: [@loredov](https://github.com/loredov)
