@@ -19,7 +19,7 @@ Este sitio fue construido para presentar algunos de mis proyectos, aprendizajes 
 
 ## 🌐 Sitio en vivo
 
-👉 Visita el portafolio en: [https://loredov.github.io/portfolio/](https://loredov.github.io/portfolio/)
+👉 Visita el portafolio en: [https://loredov.github.io/portfolio/portafolio_chat](https://loredov.github.io/portfolio/portafolio_chat)
 
 ## 📫 Contacto
 
